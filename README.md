@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitaliitub
-- 👀 I’m interested in Economics of Marketing
+- 👀 I’m interested in the Economics of Marketing
 - 🌱 I’m currently learning R, Python, C++, Economics and Marketing
 
 <!---
